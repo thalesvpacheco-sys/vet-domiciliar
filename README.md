@@ -4,7 +4,7 @@ Landing page profissional para a **Dra. Rilquia Horrana**, médica veterinária 
 
 ## Sobre o projeto
 
-Site institucional desenvolvido pela [Grifo Agency](https://grifo.agency) com foco em:
+Site institucional com foco em:
 
 - Apresentação dos serviços de atendimento veterinário domiciliar
 - Vitrine de produtos veterinários
@@ -21,14 +21,14 @@ Site institucional desenvolvido pela [Grifo Agency](https://grifo.agency) com fo
 
 ```
 vet-domiciliar/
-├── index.html              # Landing page principal
-├── forense.html            # Página de perícia forense
+├── index.html           
+├── forense.html            
 ├── assets/
-│   ├── css/                # Estilos customizados
-│   ├── js/                 # Scripts modulares
-│   └── img/                # Imagens organizadas por contexto
+│   ├── css/               
+│   ├── js/                 
+│   └── img/               
 └── data/
-    └── produtos.json       # Catálogo de produtos
+    └── produtos.json      
 ```
 
 ## Contato profissional
