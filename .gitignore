@@ -1,0 +1,23 @@
+﻿# Claude Code
+.claude/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependências (futuro)
+node_modules/
+
+# Logs
+*.log
+
+# Ambiente
+.env
+.env.local
